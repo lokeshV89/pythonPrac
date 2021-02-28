@@ -1,0 +1,5 @@
+a = bin(25)
+print(a)
+print(0b01010)
+print(oct(25))
+print(hex(10))

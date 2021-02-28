@@ -1,0 +1,6 @@
+print("complement of a number ~ : ")
+print("~ 12 :",~12)
+print("and ops")
+print("12 & 13 : ",12&13)
+print("0r ops")
+print("12 | 13", 12|13)

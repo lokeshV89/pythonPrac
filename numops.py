@@ -1,0 +1,5 @@
+y= input("Enter your number : ")
+a = int(y)
+print("Binary value of your entered value is : ",bin(a))
+print("Octal value of your entered value is : ",oct(a))
+print("Hexadecimal value of your entered value is : ",hex(a))

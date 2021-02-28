@@ -1,0 +1,11 @@
+x = input("enter real Number of first complex digit : ")
+y = input("enter imaginary number first complex digit : ")
+i = input("enter real Number of second complex digit : ")
+t = input("enter imaginary number second complex digit : ")
+a = complex(int(x),int(y))
+b = complex(int(i),int(t))
+print("two complex numbers entered by user are ",a," and ",b)
+
+print("sum of both complex is : ",a+b)
+print("substruction of both complex is : ",a-b)
+print("multiplication of both complex is : ",a*b)
